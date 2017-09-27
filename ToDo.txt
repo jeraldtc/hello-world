@@ -1,0 +1,35 @@
+Personal Business = Yes -> hindi na required ifillup
+
+Ratings star
+
+-----------------
+
+max limit 10k kapag hindi verified
+
+punta kay ussc
+
+---
+
+wallet history
+
+*****************
+
+-----------------
+
+Payment Update (Change status -- Paid/Cancelled/For Refund/Refund)
+
+Customer Payment Update -- Update payment details
+
+Disabled TOTP
+
+Enable SMS authentication
+
+
+
+
+-----
+request for fetch total rows (payments) for pagination
+
+
+COST CENTER TAGGING
+Select merchant
